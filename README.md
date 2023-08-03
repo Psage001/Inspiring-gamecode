@@ -1,4 +1,4 @@
-Development
+Production
 I love games a lot and decided i wanted to create a tic tac toe game to further practise my coding skills.
 The game should be done in python and should be an application than can run smootly.
 
